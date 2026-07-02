@@ -1,8 +1,10 @@
-# 🇨🇱 Listado de API's Públicas en Chile
+# 🇨🇱 Listado de APIs Públicas en Chile
 
-> Listado actualizado de API's Públicas para distintos tipos de servicios digitales nacionales.
-> Última actualización: **Junio 2026** · [Versión original](https://github.com/juanbrujo/listado-apis-publicas-en-chile) por [@juanbrujo](https://github.com/juanbrujo)
+Recopilación de APIs públicas chilenas para distintos tipos de servicios digitales. La idea es tener en un solo lugar las APIs que sirven para hacer proyectos, prototipos o simplemente cachar qué datos están disponibles en Chile.
 
+Última actualización: **Junio 2026**
+
+---
 
 ## 🏛️ Servicios Públicos / Gobierno
 
@@ -114,4 +116,26 @@
 
 ---
 
+## 🤝 Cómo colaborar
+
+Este listado se mantiene gracias a la comunidad, así que cualquier aporte es bienvenido. Algunas formas de ayudar:
+
+- **¿Conoces una API que no está?** Abre un Pull Request agregándola en la categoría que corresponda (o crea una nueva sección si no encaja en ninguna). Mantén el mismo formato: `[Nombre](link): Descripción corta.`
+- **¿Encontraste un link caído o una API que ya no funciona?** Abre un Issue avisando, o directamente muévela a la tabla de "APIs Deprecadas" con un PR.
+- **¿La descripción de alguna API está mala o desactualizada?** También se agradecen las correcciones, por mínimas que sean.
+
+Antes de mandar el PR, chequea que:
+
+1. La API sea de origen chileno o esté fuertemente relacionada con datos/servicios de Chile.
+2. El link funcione y lleve a documentación real (no a un sitio genérico).
+3. No esté repetida en otra sección.
+
+No hace falta que sea nada elaborado, con que el dato esté bien y el link funcione basta. Toda ayuda suma 🙌
+
+---
+
 > ¿Encontraste una API caída o tienes una nueva? ¡Abre un Issue o Pull Request!
+
+---
+
+*Basado en el [listado original](https://github.com/juanbrujo/listado-apis-publicas-en-chile) de [@juanbrujo](https://github.com/juanbrujo).*
