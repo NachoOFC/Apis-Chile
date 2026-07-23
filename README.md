@@ -2,7 +2,9 @@
 
 Recopilación de APIs públicas chilenas para distintos tipos de servicios digitales. La idea es tener en un solo lugar las APIs que sirven para hacer proyectos, prototipos o simplemente cachar qué datos están disponibles en Chile.
 
-Última actualización: **Junio 2026**
+Última actualización: **JuLio 2026**
+
+SI QUIERES COLABORAR REVISA EL OTRO ARCHIVO MD Contribuir.md
 
 ---
 
