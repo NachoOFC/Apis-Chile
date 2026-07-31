@@ -97,27 +97,6 @@ SI QUIERES COLABORAR REVISA EL OTRO ARCHIVO MD Contribuir.md
 
 ---
 
-## ❌ APIs Deprecadas (referencia histórica)
-
-| Nombre | Razón |
-|---|---|
-| API División Político Administrativa | DEPRECATED |
-| API Energía Abierta - CNE | DEPRECATED |
-| Portal de Datos Públicos (Junar) | DEPRECATED |
-| BIP (tarjeta) | DEPRECATED |
-| Rutificador | DEPRECATED |
-| RAE | DEPRECATED |
-| ByPassCors | DEPRECATED |
-| LibreAPI | DEPRECATED |
-| Feriados legales APIs Digital | DEPRECATED |
-| API Sismología U. de Chile | DEPRECATED |
-| API Mapcity | DEPRECATED |
-| API Meteored | DEPRECATED |
-| API Tiempo Meteored | DEPRECATED |
-| Horóscopo Yolanda Sultana | DEPRECATED |
-
----
-
 ## 🤝 Cómo colaborar
 
 Este listado se mantiene gracias a la comunidad, así que cualquier aporte es bienvenido. Algunas formas de ayudar:
