@@ -116,6 +116,7 @@ No hace falta que sea nada elaborado, con que el dato esté bien y el link funci
 ---
 
 > ¿Encontraste una API caída o tienes una nueva? ¡Abre un Issue o Pull Request!
+> SIGUE EL FORMATO INDICADO
 
 ---
 
